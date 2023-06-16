@@ -5,7 +5,7 @@
 
 - Correo de contacto **luisangeltrebejo@gmail.com**
 
-- Acerca de mi: Soy un apasionado de la tecnología en la nube y actualmente estoy cursando un bootcamp de AWS. Estoy estudiando para obtener la certificación de Azure Solution Architect de Microsoft Azure. Mi enfoque se centra en aprovechar al máximo las tecnologías en la nube para optimizar recursos, mejorar la eficiencia operativa y garantizar la seguridad. Soy un apasionado de la tecnología en la nube y actualmente estoy cursando un bootcamp de AWS. Estoy estudiando para obtener la certificación de Azure Solution Architect de Microsoft Azure. Mi enfoque se centra en aprovechar al máximo las tecnologías en la nube para optimizar recursos, mejorar la eficiencia operativa y garantizar la seguridad
+- Acerca de mi: Soy un apasionado de la tecnología en la nube y actualmente estoy cursando un bootcamp de AWS. Estoy estudiando para obtener la certificación de Azure Solution Architect de Microsoft Azure. Mi enfoque se centra en aprovechar al máximo las tecnologías en la nube para optimizar recursos, mejorar la eficiencia operativa y garantizar la seguridad. Soy un apasionado de la tecnología en la nube y actualmente estoy cursando un bootcamp de AWS. Estoy estudiando para obtener la certificación de Azure Solution Architect de Microsoft Azure. Mi enfoque se centra en aprovechar al máximo las tecnologías en la nube para optimizar recursos, mejorar la eficiencia operativa y garantizar la seguridad.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
