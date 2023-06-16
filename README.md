@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Luis Trebejo</h1>
 <h3 align="center">Soy un Cloud Engineer apasionado con la tecnología y ciberseguridad</h3>
 
-- Actualmente estoy Azure para sacar el certificado de **Azure Solution Architect**
+- Actualmente estoy estudiando Azure para sacar el certificado de **Azure Solution Architect**
 
 - Correo de contacto **luisangeltrebejo@gmail.com**
 
